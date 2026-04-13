@@ -1,0 +1,7 @@
+D:\Programming C#\Course 17\GUID\bin\Debug\GUID.exe.config
+D:\Programming C#\Course 17\GUID\bin\Debug\GUID.exe
+D:\Programming C#\Course 17\GUID\bin\Debug\GUID.pdb
+D:\Programming C#\Course 17\GUID\obj\Debug\GUID.csproj.AssemblyReference.cache
+D:\Programming C#\Course 17\GUID\obj\Debug\GUID.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 17\GUID\obj\Debug\GUID.exe
+D:\Programming C#\Course 17\GUID\obj\Debug\GUID.pdb

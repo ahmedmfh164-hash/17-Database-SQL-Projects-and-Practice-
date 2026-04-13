@@ -1,0 +1,19 @@
+
+--Get a table of Unique Engine_CC and calculate tax per EngineCC
+
+
+select Engine_CC, 
+case
+when Engine_CC between 0 and 1000 then 100
+when Engine_CC between 1001 and 2000 then 200
+when Engine_CC between 2001 and 4000 then 300
+when Engine_CC between 4001 and 7000 then 400
+when Engine_CC between 7001 and 10000 then 500
+when Engine_CC between 10001 and 15000 then 600
+when Engine_CC > 15000 then 700
+else 0
+end as Tax
+from VehicleDetails
+order by Engine_CC Desc
+
+
